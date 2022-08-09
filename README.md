@@ -1,2 +1,2 @@
-# Genome-wide-selection-GS-
+# Genome-wide-selection(GS)
 breeding/mark-assisted selection
